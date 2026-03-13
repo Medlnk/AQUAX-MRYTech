@@ -1,0 +1,23 @@
+[
+  {
+    "reading_id": 1,
+    "status": "\u2705  Normal",
+    "error": 0.09255053848028183,
+    "threshold": 0.6707166194915756,
+    "is_anomaly": false
+  },
+  {
+    "reading_id": 2,
+    "status": "\u2705  Normal",
+    "error": 0.023989200592041016,
+    "threshold": 0.6707166194915756,
+    "is_anomaly": false
+  },
+  {
+    "reading_id": 3,
+    "status": "\u26a0\ufe0f  ANOMALY",
+    "error": 67.10120391845703,
+    "threshold": 0.6707166194915756,
+    "is_anomaly": true
+  }
+]
